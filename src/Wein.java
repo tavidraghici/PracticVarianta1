@@ -54,4 +54,9 @@ public class Wein {
     public void setHerstellungsdatum(LocalDate herstellungsdatum) {
         this.herstellungsdatum = herstellungsdatum;
     }
+
+    @Override
+    public String toString() {
+        return name + ',' + kategory + ',' + price + ',' + menge + ',' + herstellungsdatum + '\n';
+    }
 }
