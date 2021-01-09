@@ -1,0 +1,2 @@
+Cabernet Sauvignon,ROT,38.0,200,2020-05-05
+Merlot,ROT,27.0,175,2018-12-06

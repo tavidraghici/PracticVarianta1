@@ -1,0 +1,5 @@
+Riesling,WEISS,30,100,2019-01-01
+Chardonnay,WEISS,25,125,2018-02-01
+Rose de Purcari,ROSE,27,300,2017-03-03
+Cabernet Sauvignon,ROT,38,200,2020-05-05
+Merlot,ROT,27,175,2018-12-06

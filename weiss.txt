@@ -1,0 +1,2 @@
+Riesling,WEISS,30.0,100,2019-01-01
+Chardonnay,WEISS,25.0,125,2018-02-01
